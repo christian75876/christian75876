@@ -44,6 +44,10 @@
   <a>
     <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white"/>
   </a>
+  &emsp;
+  <a>
+    <img alt="react" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white"/>
+  </a>
 </p>
 
 
