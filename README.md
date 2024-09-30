@@ -41,6 +41,9 @@
     <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
   </a>
   &emsp;
+  <a>
+    <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white"/>
+  </a>
 </p>
 
 
